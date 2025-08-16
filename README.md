@@ -1,5 +1,4 @@
-# QuickShop E-commerce Platform
-
+# QuickShop QuickShop – Local shop  Web Application
 A comprehensive e-commerce solution featuring role-based access control, smart price negotiations, and real-time delivery tracking.
 
 ## Features
@@ -116,5 +115,6 @@ python -m pytest tests/
 5. Create a Pull Request
 
 ## License
+
 
 This project is licensed under the MIT License.
