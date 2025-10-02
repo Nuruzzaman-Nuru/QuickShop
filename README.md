@@ -50,7 +50,7 @@ A comprehensive e-commerce solution featuring role-based access control, smart p
   - SQLite (Development)
   - Supports PostgreSQL (Production)
  
-![Home Page](homepage.png)
+![Home Page](home page.png)
 ## Installation
 
 1. Clone the repository
@@ -119,6 +119,7 @@ python -m pytest tests/
 
 
 This project is licensed under the MIT License.
+
 
 
 
