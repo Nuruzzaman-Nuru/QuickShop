@@ -2,7 +2,7 @@
 A comprehensive e-commerce solution featuring role-based access control, smart price negotiations, and real-time delivery tracking.
 
 ## Features
-![Portal](honepage.jpg)
+![homepage](homepage.jpg)
 - **Multi-Role System**
   - Customer: Browse products, negotiate prices, track orders
   - Shop Owner: Manage inventory, handle orders, customize shop settings
@@ -119,6 +119,7 @@ python -m pytest tests/
 
 
 This project is licensed under the MIT License.
+
 
 
 
