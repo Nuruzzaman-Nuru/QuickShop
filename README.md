@@ -42,7 +42,7 @@ A comprehensive e-commerce solution featuring role-based access control, smart p
 
 - **Frontend**
   - HTML/CSS
-  - Bootstrap
+  - Tailwind CSS
   - JavaScript
   - Google Maps API for location services
 
@@ -119,6 +119,7 @@ python -m pytest tests/
 
 
 This project is licensed under the MIT License.
+
 
 
 
